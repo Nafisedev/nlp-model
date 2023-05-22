@@ -2,8 +2,7 @@
 
 ## Description
 
-The task is to use a version of the Twitter sentiment dataset (You can download dataset through the link: [The dataset](https://drive.google.com/file/d/13mAaFqCrscUYkoITf4rZ6qG9ptAlIJVb/view?usp=sharing)) and create a simple but complete preprocessing, training and validation pipeline to predict the target *is_positive*. 
-Further, you're tasked to compare your results with those of a pre-trained Zero-shot approach such as Bart [Bart info](https://huggingface.co/transformers/model_doc/bart.html).
+The task is to use a version of the Twitter sentiment dataset (You can download dataset through the link: [The dataset](https://drive.google.com/file/d/13mAaFqCrscUYkoITf4rZ6qG9ptAlIJVb/view?usp=sharing)) and create a simple but complete preprocessing, training and validation pipeline to predict the target *is_positive*.
 
 
 ## Solution
